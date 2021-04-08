@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/random-quote-generator/static/css/main.1cccca3a.chunk.css",
+    "main.js": "/random-quote-generator/static/js/main.c296b914.chunk.js",
+    "main.js.map": "/random-quote-generator/static/js/main.c296b914.chunk.js.map",
+    "runtime-main.js": "/random-quote-generator/static/js/runtime-main.225d0307.js",
+    "runtime-main.js.map": "/random-quote-generator/static/js/runtime-main.225d0307.js.map",
+    "static/js/2.ed8e6f1b.chunk.js": "/random-quote-generator/static/js/2.ed8e6f1b.chunk.js",
+    "static/js/2.ed8e6f1b.chunk.js.map": "/random-quote-generator/static/js/2.ed8e6f1b.chunk.js.map",
+    "static/js/3.8a5dc1a0.chunk.js": "/random-quote-generator/static/js/3.8a5dc1a0.chunk.js",
+    "static/js/3.8a5dc1a0.chunk.js.map": "/random-quote-generator/static/js/3.8a5dc1a0.chunk.js.map",
+    "index.html": "/random-quote-generator/index.html",
+    "static/css/main.1cccca3a.chunk.css.map": "/random-quote-generator/static/css/main.1cccca3a.chunk.css.map",
+    "static/js/2.ed8e6f1b.chunk.js.LICENSE.txt": "/random-quote-generator/static/js/2.ed8e6f1b.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/random-quote-generator/static/media/NewTegomin-Regular.ae8c4d94.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.225d0307.js",
+    "static/js/2.ed8e6f1b.chunk.js",
+    "static/css/main.1cccca3a.chunk.css",
+    "static/js/main.c296b914.chunk.js"
+  ]
+}
