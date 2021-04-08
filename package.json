@@ -1,5 +1,6 @@
 {
   "name": "random-quote-generator",
+  "homepage": "https://its-me-sv.github.io/random-quote-generator",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
